@@ -7,3 +7,6 @@ The Directory consists of various programs and techniques that have been used or
 
 - txt_to_csv- python pgm to convert commercially available CMEI data to csv format for further analysis
 - 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
+" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
