@@ -7,7 +7,7 @@ alt="IIHS LOGO" width="200" height="200" border="10" align="center"/></a>
 ## Indian Institute for Human Settlements Bangalore
 `IIHS` is a section 8 company under the Indian Companies Act, established in 2008 by eminent Indians who have distinguished themselves in various fields, including the government, private sector and civil society. 
 
-The Directory consists of various programs and techniques that have been used or implemented in the main project `Enterprise map of Bangalore`
+The Directory consists of various programs and techniques that have been used or implemented in the main project [`Enterprise map of Bangalore`](https://www.peak-urban.org/project/mapping-bangalores-industrial-transformation)
 
 -
 - 
