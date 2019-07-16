@@ -1,0 +1,11 @@
+house,houseno,industryname,road,suburb,city,citydistrict,state,pincode,lat,lon,nic
+house1,1,industry1,road1,sub1,c1,cd1,karnataka,123,12,12,1
+house2,2,industry2,road1,sub1,c2,cd2,karnataka,123,12,12,2
+house3,3,industry3,road2,sub2,c1,cd1,karnataka,121,12,12,3
+house4,4,industry4,road2,sub2,c1,cd1,karnataka,121,12,12,4
+house5,5,industry5,road2,sub2,c1,cd1,karnataka,123,12,12,5
+house6,6,industry6,road3,sub3,c1,cd1,karnataka,121,12,12,6
+house7,7,industry7,road3,sub3,c2,cd2,karnataka,123,12,12,7
+house8,8,industry8,road4,sub4,c2,cd2,karnataka,121,12,12,8
+house9,9,industry9,road5,sub1,c2,cd2,karnataka,121,12,12,9
+house10,10,industry10,road4,sub2,c2,cd2,karnataka,121,12,12,10
