@@ -1,7 +1,0 @@
-setup.py
-blraddrparser/__init__.py
-blraddrparser.egg-info/PKG-INFO
-blraddrparser.egg-info/SOURCES.txt
-blraddrparser.egg-info/dependency_links.txt
-blraddrparser.egg-info/requires.txt
-blraddrparser.egg-info/top_level.txt
