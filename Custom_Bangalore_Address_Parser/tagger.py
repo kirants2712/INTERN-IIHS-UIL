@@ -47,7 +47,7 @@ addresses = ["No. 106, Skanda Complex, 10th Main, 2nd Stage, CMH Road, Indiranag
 ]
 
 print("Custom:")
-print("+++++++++++")
+print("++++++++++")
 for add in addresses:
     print(add)
     print(blraddrparser.parse(add))
